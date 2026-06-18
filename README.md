@@ -1,1 +1,1 @@
-Kurs Machine learnidng  Pawel Krakowiak - cwiczenia 
+Machine Learning Course by Paweł Krakowiak - Practice Exercises
